@@ -53,7 +53,8 @@ nav a:hover {
   display: none;
 }
 
-///////////////////////
+
+/*//////////////////////////////////////*/
 
 @media (max-width: 768px) {
   .column {
@@ -92,9 +93,8 @@ nav a:hover {
     font-size: 40px;
   }
 }
-///////////////////
 
-
+/*//////////////////////////////////////*/
 .container {
   padding: 20px;
   max-width: 900px;
@@ -152,5 +152,7 @@ body{
   margin: auto;
 }
 
-
-
+.greeting {
+  color: #f9fef0;
+  text-align: center;
+}
